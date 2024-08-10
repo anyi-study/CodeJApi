@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+codej:
+  client:
+    access-key: rose
+    secret-key: rose123
